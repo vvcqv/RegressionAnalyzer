@@ -9,4 +9,6 @@
 
 #### Пример: [ссылка](https://r2analyzer.000webhostapp.com/)
 
+![image](https://user-images.githubusercontent.com/97289648/209560723-b26f825f-3c1e-40d4-b54b-82ef5297f218.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Regression+Analyzer)](https://git.io/typing-svg)
